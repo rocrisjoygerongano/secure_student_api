@@ -1,0 +1,15 @@
+# Python / Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Local Database
+*.sqlite3
+*.db
+
+# Logs & OS Files
+*.log
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
