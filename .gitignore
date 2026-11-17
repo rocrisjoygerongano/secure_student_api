@@ -13,3 +13,8 @@ desktop.ini
 .DS_Store
 .vscode/
 .idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
